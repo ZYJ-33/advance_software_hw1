@@ -1,6 +1,7 @@
 hello
 world
 add a new line
+add a new line by first branch
 
 after \n add a new line
 
