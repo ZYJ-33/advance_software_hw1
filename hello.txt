@@ -2,3 +2,5 @@ hello
 world
 add a new line
 
+after \n add a new line
+
